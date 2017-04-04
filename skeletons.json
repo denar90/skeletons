@@ -2,7 +2,7 @@
   "skeletons": [
    {
       "title": "Dead-simple brunch",
-      "url": "brunch/dead-simple",
+      "url": "brunch/dead-simple"
       "technologies": "—",
       "description": "Dead-simple brunch skeleton. No opinions, just empty dirs and minimal configs.",
       "alias": "simple"
